@@ -12,6 +12,7 @@
 //     arr.push("kiwi")
 //     return arr
 // }
+// also confused a bit, will ask too
 
 // let completeArray = moveArray(favoriteFruits)
 // console.log(completeArray)
@@ -25,6 +26,7 @@
 //         emoji += "😈"
 //     }
 // }
+// still a  little confused, will follow up
 
 // emojiPyramid()
 
