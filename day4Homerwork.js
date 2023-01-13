@@ -34,8 +34,8 @@
 
 //3. Create a function that converts a string to uppercase letters. Console.log the results.
 
-function upperCaseText(string) {
-   return string.toUpperCase()
-}
+// function upperCaseText(string) {
+//    return string.toUpperCase()
+// }
 
-console.log(upperCaseText("hello"))
+// console.log(upperCaseText("hello"))
