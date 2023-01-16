@@ -26,16 +26,18 @@
 //    let totalThree = threePointer * 3
 //    totalScore = totalTwo + totalThree
 //    return totalScore
+//    multiples by 2 and 3 to find the amount the 2/3 pointers are worth, then adding them up
 
 // }
 
 // console.log(basketballScore(3, 4))
 
 
-//3. Create a function that converts a string to uppercase letters. Console.log the results.
+// 3. Create a function that converts a string to uppercase letters. Console.log the results.
 
-// function upperCaseText(string) {
-//    return string.toUpperCase()
-// }
+function upperCaseText(string) {
+   return string.toUpperCase()
+}
 
-// console.log(upperCaseText("hello"))
+console.log(upperCaseText("hello"))
+
